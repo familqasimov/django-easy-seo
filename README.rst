@@ -1,6 +1,4 @@
 Django SEO
-<p align="center"><img src="logo/logo.png" alt="django-easy-seo" height="615px"></p>
-
 ==========
 
 SEO fields for objects of any model registered in admin.
