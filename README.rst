@@ -1,4 +1,4 @@
-<p align="center"><img src="logo/logo.png" alt="django-easy-seo" height="615px"></p>
+<p align="center"><img src="logo/logo.png" alt="Django SEO" height="200px"></p>
 
 Django SEO
 ==========
